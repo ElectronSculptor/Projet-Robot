@@ -3,6 +3,7 @@
 
 This repository contains the code and documentation for an autonomous robot project developed as part of the *Conception des Systèmes Electroniques 1* course at *École des Mines de Saint-Étienne*. The objective of the project was to design, program, and control a robot that navigates autonomously using a sonar sensor for object detection and distance measurement.
 
+Read the Rapport_Projet_Robot.pdf file to have a better understanding (this file is in French)
 ## Project Overview
 
 The robot is built using an STM32 Nucleo-L476RG microcontroller. It is equipped with a sonar sensor for navigation and is capable of tracking and maintaining a set distance from an object (20 cm). The system was designed following a finite state machine (FSM) that controls various peripherals, such as motors, sonar, and LEDs.

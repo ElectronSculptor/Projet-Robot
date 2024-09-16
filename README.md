@@ -70,9 +70,6 @@ The system is controlled by a finite state machine (FSM) with the following stat
 
 ## Contributors
 
-- **Ibrahim Hadj-Arab**
 - **Gevorg Ishkhanyan**
+- **Ibrahim Hadj-Arab**
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
